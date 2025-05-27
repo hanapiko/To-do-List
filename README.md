@@ -17,3 +17,7 @@ This project is a UX redesign of a commonly used to-do list app. The focus is on
 - Improve task entry UX
 - Keep the interface clean
 - Add accessibility support (font scaling, dark mode)
+
+## Figma Design
+
+- [View High-Fidelity Prototype on Figma](https://www.figma.com/design/nOJdfC33iZPOG2EZ8c4vbI/to-do-high-fidelity?node-id=0-1&t=ZbAa8zkfDTGZJMz5-1)
